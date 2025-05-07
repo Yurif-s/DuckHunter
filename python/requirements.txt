@@ -1,0 +1,4 @@
+Flask
+duckduckgo-search
+flask-cors
+requests
