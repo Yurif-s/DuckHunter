@@ -1,4 +1,4 @@
 Flask
 duckduckgo-search
 flask-cors
-requests
+flasgger
